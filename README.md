@@ -25,18 +25,7 @@ For lecture videos, check out Professor Nader's [youtube channel](https://www.yo
 
 <hr>
 
-# Assignment Scores
-
-|                       |            |                               
-| --------------------- | ---------- | 
-| Homework (All)        | 12/12      |
-| Computer Assignment 1          | 100/100    | 
-| Computer Assignment 2          | 100/100    | 
-| Computer Assignment 2 Bonus         | 30/30    | 
-|                       |            |    
-
 These are my personal solutions and should only be used as a reference for future assignments. Directly copying the source code is at your own risk.
-<hr>
 
 Good luck!
 
