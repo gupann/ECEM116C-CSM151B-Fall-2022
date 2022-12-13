@@ -19,7 +19,6 @@ For lecture videos, check out Professor Nader's [youtube channel](https://www.yo
 | Projects              | 30%        | Two Projects                  |
 | Homework              | 20%        | Six Homework Assignments      |
 | Quizzes               | 45%        | Three quizzes                 |
-| Homework              | 13%        | 6 assignments                 |
 | Class Participation   | 5%         | Campuswire                    |
 | Bonus Points          | Varies     | Questions on quizzes, feedback forms, etc.|
 |                       |            |                               |
